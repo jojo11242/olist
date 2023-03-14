@@ -9,4 +9,4 @@ https://github.com/jojo11242/olist/blob/main/Image/Dashboard.png
 
 | Formato | Link |
 |--|--|
-|Power BI online|[Link](https://app.powerbi.com/groups/5350b0a1-13ae-44bb-ba2c-6e7091a0f4e1/reports/725f235e-cfb0-4e7c-a10c-da4fca7ebf70/ReportSection67e92ba2e5e8c80e10be)|
+|Power BI online|[Link](https://app.powerbi.com/links/IwbMqUzzUl?ctid=00229389-3db6-47a5-8119-2365a795a6ee&pbi_source=linkShare)|
